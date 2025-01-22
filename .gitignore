@@ -309,5 +309,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# config file
+# config python file
+# this file contains api key
 /config.py
